@@ -147,4 +147,9 @@ class EloquentEncryption implements Encrypter
             return $this->handler->{$name}($arguments);
         }
     }
+
+    public function getKey() {
+        //
+    }
+
 }
