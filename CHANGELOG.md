@@ -2,6 +2,10 @@
 
 All notable changes to `eloquentencryption` will be documented in this file
 
+## 4.0
+Update to using with Laravel 9 and PHP 8.0+
+Update phpseclib/phpseclib to 2.0.37
+
 ## 3.0
 
 - As of **Laravel 8.14** you can specify the built in Eloquent Encryption casting setting a model's encryptUsing in your app service provider. This allows for automatic separation of your APP_KEY, when using a different `Illuminate\Contracts\Encryption\Encrypter` class/instance.
