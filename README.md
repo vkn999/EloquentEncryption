@@ -2,10 +2,10 @@
 
 This package enables an additional layer of security when handling sensitive data. Allowing key fields of your eloquent models in the database to be encrypted at rest.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/richardstyles/eloquentencryption.svg?style=flat-square)](https://packagist.org/packages/richardstyles/eloquentencryption)
-[![Build Status](https://img.shields.io/travis/richardstyles/eloquentencryption/master.svg?style=flat-square)](https://travis-ci.org/richardstyles/eloquentencryption)
-[![Quality Score](https://img.shields.io/scrutinizer/g/richardstyles/eloquentencryption.svg?style=flat-square)](https://scrutinizer-ci.com/g/richardstyles/eloquentencryption)
-[![Total Downloads](https://img.shields.io/packagist/dt/richardstyles/eloquentencryption.svg?style=flat-square)](https://packagist.org/packages/richardstyles/eloquentencryption)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/vkn999/eloquentencryption.svg?style=flat-square)](https://packagist.org/packages/vkn999/eloquentencryption)
+[![Build Status](https://img.shields.io/travis/vkn999/eloquentencryption/master.svg?style=flat-square)](https://travis-ci.org/vkn999/eloquentencryption)
+[![Quality Score](https://img.shields.io/scrutinizer/g/vkn999/eloquentencryption.svg?style=flat-square)](https://scrutinizer-ci.com/g/vkn999/eloquentencryption)
+[![Total Downloads](https://img.shields.io/packagist/dt/vkn999/eloquentencryption.svg?style=flat-square)](https://packagist.org/packages/vkn999/eloquentencryption)
 
 ## Introduction
 
@@ -160,7 +160,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 If you are having general issues with this package, feel free to contact me on [Twitter](https://twitter.com/StylesGoTweet).
 
-If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/RichardStyles/EloquentEncryption/issues), or better yet, fork the repository and submit a pull request with a failing test.
+If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/vkn999/EloquentEncryption/issues), or better yet, fork the repository and submit a pull request with a failing test.
 
 If you're using this package, I'd love to hear your thoughts. Thanks!
 
