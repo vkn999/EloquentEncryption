@@ -1,12 +1,13 @@
 {
-    "name": "richardstyles/eloquentencryption",
+    "name": "vkn999/eloquentencryption",
     "description": "Allow Eloquent attributes to be encrypted and decrypted using a RSA 4096-bit private keys.",
     "keywords": [
         "richardstyles",
         "encryption",
-        "eloquent"
+        "eloquent",
+        "vkn999"
     ],
-    "homepage": "https://github.com/richardstyles/eloquentencryption",
+    "homepage": "https://github.com/vkn999/eloquentencryption",
     "license": "MIT",
     "type": "library",
     "authors": [
