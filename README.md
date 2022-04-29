@@ -18,12 +18,13 @@ If you don't want to use RSA keys, then I have another package [Eloquent AES](ht
 
 ## Installation
 
-This package requires Laravel 8.x or higher.
+This package requires Laravel 9.x or higher.
+php: "^8.0|^8.1"
 
 You can install the package via composer:
 
 ```bash
-composer require richardstyles/eloquentencryption
+composer require vkn999/eloquentencryption
 ```
 
 You do not need to register the ServiceProvider as this package uses Laravel Package auto discovery.
